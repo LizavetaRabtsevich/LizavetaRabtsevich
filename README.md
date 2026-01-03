@@ -2,7 +2,7 @@
 
 ## About me
 
-Second-year student at FAMCS, majoring in applied mathematics.
+Second-year student at Faculty of Applied Mathematics, BSU, majoring in applied mathematics.
 
 ### Skills
 
